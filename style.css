@@ -1,0 +1,38 @@
+body {
+  background-color:silver;
+}
+
+h6{
+  color:blue;
+  font-family:times;
+}
+h4{
+  color:blue;
+  font-family:times;
+}
+h2{
+  color:blue;
+  font-family:times;
+}
+h5{
+  color:red;
+  font-family:times;
+  margin-left:350px;
+}
+h3{
+  color:red;
+  font-family:times;
+  margin-left:350px;
+}
+h1{
+  color:red;
+  font-family:times;
+  margin-left:350px;
+}
+img{
+  border: 5px solid black;
+  width: 50%;
+  height: 50%;
+  margin-left: 175px;
+  padding:25px;
+}
